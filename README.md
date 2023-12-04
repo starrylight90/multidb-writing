@@ -9,3 +9,8 @@ test_main: testmainusers <br>
 
 Use postman to send post request at this link: http://localhost:3000/api/user/create-user
 
+Run using the following commands 
+``
+npm install
+node app.js
+``
